@@ -1,0 +1,3 @@
+FPS = 60
+FRAME_TIME = 1.0 / FPS
+
